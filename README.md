@@ -1,4 +1,4 @@
-# CardioPredict — Advanced Heart Disease Risk Frontend
+# CardioPredict — Advanced Heart Disease Risk Prediction Using Machine Learning Model
 
 Modern React + TypeScript + Vite frontend for heart-disease analytics.
 
